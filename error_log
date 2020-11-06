@@ -1,0 +1,146 @@
+[22-Jan-2019 19:29:14 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/datasoli/public_html/Hastane/System/basicdb.php:267
+Stack trace:
+#0 /home/datasoli/public_html/Hastane/doktorlar.php(59): BasicDB->run()
+#1 {main}
+  thrown in /home/datasoli/public_html/Hastane/System/basicdb.php on line 267
+[22-Jan-2019 19:29:17 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/datasoli/public_html/Hastane/System/basicdb.php:267
+Stack trace:
+#0 /home/datasoli/public_html/Hastane/doktorlar.php(59): BasicDB->run()
+#1 {main}
+  thrown in /home/datasoli/public_html/Hastane/System/basicdb.php on line 267
+[22-Jan-2019 19:29:18 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/datasoli/public_html/Hastane/System/basicdb.php:267
+Stack trace:
+#0 /home/datasoli/public_html/Hastane/doktorlar.php(59): BasicDB->run()
+#1 {main}
+  thrown in /home/datasoli/public_html/Hastane/System/basicdb.php on line 267
+[22-Jan-2019 19:29:32 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/datasoli/public_html/Hastane/System/basicdb.php:267
+Stack trace:
+#0 /home/datasoli/public_html/Hastane/doktorlar.php(59): BasicDB->run()
+#1 {main}
+  thrown in /home/datasoli/public_html/Hastane/System/basicdb.php on line 267
+[22-Jan-2019 19:29:33 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/datasoli/public_html/Hastane/System/basicdb.php:267
+Stack trace:
+#0 /home/datasoli/public_html/Hastane/doktorlar.php(59): BasicDB->run()
+#1 {main}
+  thrown in /home/datasoli/public_html/Hastane/System/basicdb.php on line 267
+[25-Jan-2019 17:11:08 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/datasoli/public_html/Hastane/populer.php on line 10
+[25-Jan-2019 17:11:09 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/datasoli/public_html/Hastane/populer.php on line 10
+[25-Jan-2019 17:11:10 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/datasoli/public_html/Hastane/populer.php on line 10
+[25-Jan-2019 17:11:10 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/datasoli/public_html/Hastane/populer.php on line 10
+[25-Jan-2019 17:11:23 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/datasoli/public_html/Hastane/populer.php on line 10
+[25-Jan-2019 17:11:23 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/datasoli/public_html/Hastane/populer.php on line 10
+[25-Jan-2019 17:11:23 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/datasoli/public_html/Hastane/populer.php on line 10
+[25-Jan-2019 17:11:24 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/datasoli/public_html/Hastane/populer.php on line 10
+[25-Jan-2019 17:11:39 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '{' in /home/datasoli/public_html/Hastane/populer.php on line 99
+[25-Jan-2019 17:11:39 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '{' in /home/datasoli/public_html/Hastane/populer.php on line 99
+[26-Jan-2019 21:22:37 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class 'Upload' not found in /home/datasoli/public_html/Hastane/hastanegorselleri.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/hastanegorselleri.php on line 15
+[26-Jan-2019 21:22:56 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class 'Upload' not found in /home/datasoli/public_html/Hastane/doktorlar.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/doktorlar.php on line 19
+[26-Jan-2019 21:24:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class 'Upload' not found in /home/datasoli/public_html/Hastane/doktorlar.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/doktorlar.php on line 19
+[26-Jan-2019 21:24:06 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class 'Upload' not found in /home/datasoli/public_html/Hastane/doktorlar.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/doktorlar.php on line 19
+[26-Jan-2019 21:28:06 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function random() on null in /home/datasoli/public_html/Hastane/doktorlar.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/doktorlar.php on line 22
+[26-Jan-2019 21:31:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function random() on null in /home/datasoli/public_html/Hastane/doktorlar.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/doktorlar.php on line 22
+[26-Jan-2019 21:32:21 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function random() on null in /home/datasoli/public_html/Hastane/doktorlar.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/doktorlar.php on line 22
+[26-Jan-2019 21:53:44 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function random() on null in /home/datasoli/public_html/Hastane/doktorlar.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/doktorlar.php on line 22
+[26-Jan-2019 21:56:21 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function random() on null in /home/datasoli/public_html/Hastane/doktorlar.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/doktorlar.php on line 22
+[26-Jan-2019 21:57:13 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function random() on null in /home/datasoli/public_html/Hastane/doktorlar.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/doktorlar.php on line 22
+[26-Jan-2019 21:57:17 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function random() on null in /home/datasoli/public_html/Hastane/doktorlar.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/doktorlar.php on line 22
+[26-Jan-2019 21:57:37 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function random() on null in /home/datasoli/public_html/Hastane/doktorlar.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/doktorlar.php on line 22
+[26-Jan-2019 22:55:04 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/datasoli/public_html/Hastane/System/basicdb.php:267
+Stack trace:
+#0 /home/datasoli/public_html/Hastane/populer.php(39): BasicDB->run()
+#1 {main}
+  thrown in /home/datasoli/public_html/Hastane/System/basicdb.php on line 267
+[26-Jan-2019 22:56:24 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/datasoli/public_html/Hastane/System/basicdb.php:267
+Stack trace:
+#0 /home/datasoli/public_html/Hastane/populer.php(40): BasicDB->run()
+#1 {main}
+  thrown in /home/datasoli/public_html/Hastane/System/basicdb.php on line 267
+[09-Feb-2019 17:59:55 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/datasoli/public_html/Hastane/System/basicdb.php:267
+Stack trace:
+#0 /home/datasoli/public_html/Hastane/hastanegorselleri.php(68): BasicDB->run()
+#1 {main}
+  thrown in /home/datasoli/public_html/Hastane/System/basicdb.php on line 267
+[16-Feb-2019 16:19:06 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}' in /home/datasoli/public_html/Hastane/admingiris.php on line 20
+[16-Feb-2019 16:19:08 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}' in /home/datasoli/public_html/Hastane/admingiris.php on line 20
+[16-Feb-2019 16:19:09 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}' in /home/datasoli/public_html/Hastane/admingiris.php on line 20
+[16-Feb-2019 17:08:46 Europe/Istanbul] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/datasoli/public_html/Hastane/cikisyap.php on line 3
+[16-Feb-2019 17:09:53 Europe/Istanbul] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/datasoli/public_html/Hastane/cikisyap.php on line 2
+[16-Feb-2019 17:11:00 Europe/Istanbul] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/datasoli/public_html/Hastane/cikisyap.php on line 3
+[16-Feb-2019 17:11:48 Europe/Istanbul] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/datasoli/public_html/Hastane/cikisyap.php on line 3
+[09-May-2019 18:51:57 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '?>' in /home/datasoli/public_html/Hastane/altTibbiBolumler.php on line 45
+[01-Jun-2019 16:23:24 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home/datasoli/public_html/Hastane/System/basicdb.php:115
+Stack trace:
+#0 /home/datasoli/public_html/Hastane/System/basicdb.php(115): PDO->__construct('mysql:host=185....', 'datasoli_hastan...', 'x)iB[0jfYHc?')
+#1 /home/datasoli/public_html/Hastane/System/config.php(7): BasicDB->__construct('185.210.92.181', 'datasoli_hastan...', 'datasoli_hastan...', 'x)iB[0jfYHc?')
+#2 /home/datasoli/public_html/Hastane/Layout/header.php(1): include('/home/datasoli/...')
+#3 /home/datasoli/public_html/Hastane/index.php(1): include('/home/datasoli/...')
+#4 {main}
+  thrown in /home/datasoli/public_html/Hastane/System/basicdb.php on line 115
+[01-Jun-2019 16:25:12 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home/datasoli/public_html/Hastane/System/basicdb.php:115
+Stack trace:
+#0 /home/datasoli/public_html/Hastane/System/basicdb.php(115): PDO->__construct('mysql:host=185....', 'datasoli_hastan...', 'x)iB[0jfYHc?')
+#1 /home/datasoli/public_html/Hastane/System/config.php(7): BasicDB->__construct('185.210.92.181', 'datasoli_hastan...', 'datasoli_hastan...', 'x)iB[0jfYHc?')
+#2 /home/datasoli/public_html/Hastane/Layout/header.php(1): include('/home/datasoli/...')
+#3 /home/datasoli/public_html/Hastane/index.php(1): include('/home/datasoli/...')
+#4 {main}
+  thrown in /home/datasoli/public_html/Hastane/System/basicdb.php on line 115
+[01-Jun-2019 16:28:51 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home/datasoli/public_html/Hastane/System/basicdb.php:115
+Stack trace:
+#0 /home/datasoli/public_html/Hastane/System/basicdb.php(115): PDO->__construct('mysql:host=185....', 'datasoli_hastan...', 'x)iB[0jfYHc?')
+#1 /home/datasoli/public_html/Hastane/System/config.php(7): BasicDB->__construct('185.210.92.181', 'datasoli_hastan...', 'datasoli_hastan...', 'x)iB[0jfYHc?')
+#2 /home/datasoli/public_html/Hastane/Layout/header.php(1): include('/home/datasoli/...')
+#3 /home/datasoli/public_html/Hastane/index.php(1): include('/home/datasoli/...')
+#4 {main}
+  thrown in /home/datasoli/public_html/Hastane/System/basicdb.php on line 115
+[01-Jun-2019 16:31:03 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home/datasoli/public_html/Hastane/System/basicdb.php:115
+Stack trace:
+#0 /home/datasoli/public_html/Hastane/System/basicdb.php(115): PDO->__construct('mysql:host=185....', 'datasoli_hastan...', 'x)iB[0jfYHc?')
+#1 /home/datasoli/public_html/Hastane/System/config.php(7): BasicDB->__construct('185.210.92.181', 'datasoli_hastan...', 'datasoli_hastan...', 'x)iB[0jfYHc?')
+#2 /home/datasoli/public_html/Hastane/Layout/header.php(1): include('/home/datasoli/...')
+#3 /home/datasoli/public_html/Hastane/index.php(1): include('/home/datasoli/...')
+#4 {main}
+  thrown in /home/datasoli/public_html/Hastane/System/basicdb.php on line 115
+[01-Jun-2019 16:33:55 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home/datasoli/public_html/Hastane/System/basicdb.php:115
+Stack trace:
+#0 /home/datasoli/public_html/Hastane/System/basicdb.php(115): PDO->__construct('mysql:host=185....', 'datasoli_hastan...', 'x)iB[0jfYHc?')
+#1 /home/datasoli/public_html/Hastane/System/config.php(7): BasicDB->__construct('185.210.92.181', 'datasoli_hastan...', 'datasoli_hastan...', 'x)iB[0jfYHc?')
+#2 /home/datasoli/public_html/Hastane/Layout/header.php(1): include('/home/datasoli/...')
+#3 /home/datasoli/public_html/Hastane/index.php(1): include('/home/datasoli/...')
+#4 {main}
+  thrown in /home/datasoli/public_html/Hastane/System/basicdb.php on line 115

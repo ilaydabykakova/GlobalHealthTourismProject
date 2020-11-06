@@ -1,0 +1,64 @@
+[31-Jan-2019 22:19:49 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method BasicDB::first() in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php on line 22
+[31-Jan-2019 22:20:23 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method BasicDB::first() in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php on line 22
+[31-Jan-2019 22:21:32 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method BasicDB::first() in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php on line 22
+[31-Jan-2019 22:22:07 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method BasicDB::first() in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php on line 22
+[31-Jan-2019 22:23:21 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method BasicDB::first() in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php on line 23
+[31-Jan-2019 22:23:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method BasicDB::first() in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php on line 23
+[31-Jan-2019 22:23:59 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method BasicDB::first() in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php on line 23
+[31-Jan-2019 22:24:22 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method BasicDB::first() in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php on line 22
+[31-Jan-2019 22:24:35 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method BasicDB::first() in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php on line 22
+[31-Jan-2019 22:44:23 Europe/Istanbul] PHP Warning:  Division by zero in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php on line 23
+[31-Jan-2019 22:44:23 Europe/Istanbul] PHP Warning:  array_merge(): Argument #1 is not an array in /home/datasoli/public_html/Hastane/Api/hastaneDetay.php on line 24
+[06-Feb-2019 20:44:07 Europe/Istanbul] PHP Warning:  Division by zero in /home/datasoli/public_html/Hastane/Api/doktorDetay.php on line 25
+[06-Feb-2019 20:44:45 Europe/Istanbul] PHP Warning:  Division by zero in /home/datasoli/public_html/Hastane/Api/doktorDetay.php on line 25
+[06-Feb-2019 20:47:21 Europe/Istanbul] PHP Warning:  Division by zero in /home/datasoli/public_html/Hastane/Api/doktorDetay.php on line 25
+[06-Feb-2019 20:56:34 Europe/Istanbul] PHP Warning:  Division by zero in /home/datasoli/public_html/Hastane/Api/doktorDetay.php on line 25
+[06-Feb-2019 21:52:33 Europe/Istanbul] PHP Warning:  Division by zero in /home/datasoli/public_html/Hastane/Api/doktorDetay.php on line 25
+[01-Jun-2019 16:25:26 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home/datasoli/public_html/Hastane/System/basicdb.php:115
+Stack trace:
+#0 /home/datasoli/public_html/Hastane/System/basicdb.php(115): PDO->__construct('mysql:host=185....', 'datasoli_hastan...', 'x)iB[0jfYHc?')
+#1 /home/datasoli/public_html/Hastane/System/config.php(7): BasicDB->__construct('185.210.92.181', 'datasoli_hastan...', 'datasoli_hastan...', 'x)iB[0jfYHc?')
+#2 /home/datasoli/public_html/Hastane/Api/tibBolumleri.php(3): include('/home/datasoli/...')
+#3 {main}
+  thrown in /home/datasoli/public_html/Hastane/System/basicdb.php on line 115
+[01-Jun-2019 16:29:14 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home/datasoli/public_html/Hastane/System/basicdb.php:115
+Stack trace:
+#0 /home/datasoli/public_html/Hastane/System/basicdb.php(115): PDO->__construct('mysql:host=185....', 'datasoli_hastan...', 'x)iB[0jfYHc?')
+#1 /home/datasoli/public_html/Hastane/System/config.php(7): BasicDB->__construct('185.210.92.181', 'datasoli_hastan...', 'datasoli_hastan...', 'x)iB[0jfYHc?')
+#2 /home/datasoli/public_html/Hastane/Api/tibBolumleri.php(3): include('/home/datasoli/...')
+#3 {main}
+  thrown in /home/datasoli/public_html/Hastane/System/basicdb.php on line 115
+[01-Jun-2019 16:30:14 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home/datasoli/public_html/Hastane/System/basicdb.php:115
+Stack trace:
+#0 /home/datasoli/public_html/Hastane/System/basicdb.php(115): PDO->__construct('mysql:host=185....', 'datasoli_hastan...', 'x)iB[0jfYHc?')
+#1 /home/datasoli/public_html/Hastane/System/config.php(7): BasicDB->__construct('185.210.92.181', 'datasoli_hastan...', 'datasoli_hastan...', 'x)iB[0jfYHc?')
+#2 /home/datasoli/public_html/Hastane/Api/istatistik.php(3): include('/home/datasoli/...')
+#3 {main}
+  thrown in /home/datasoli/public_html/Hastane/System/basicdb.php on line 115
